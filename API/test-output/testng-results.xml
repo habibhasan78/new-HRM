@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2338" started-at="2022-09-06T23:10:33Z" finished-at="2022-09-06T23:10:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2338" started-at="2022-09-06T23:10:33Z" finished-at="2022-09-06T23:10:36Z">
+      <class name="com.api.Api_Automation">
+        <test-method status="PASS" signature="getCreatData()[pri:0, instance:com.api.Api_Automation@197d671]" name="getCreatData" duration-ms="2312" started-at="2022-09-06T23:10:33Z" finished-at="2022-09-06T23:10:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCreatData -->
+      </class> <!-- com.api.Api_Automation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
